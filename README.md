@@ -1,16 +1,16 @@
 # CS255SystemAnalysisAndDesign
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-
+DriverPass a client who wanted to build a mobile and web application being to fill a gap in the market for helping people without a drivers license pass their driving test and exam. This mobile and web application would have the ability to schedule, reschedule, and cancel appointments with a driver. It would also give access to online classes if package 3 was purchased. These online courses would also generate reports/homework for offline work. It would also support a host of admin features such as generating activity reports and password resets. The secretary would also have access to appointments. The UI would display student info, module progress, driver notes, and appointments.
 
 What did you do particularly well?
-
+I think my strong points were analyzing requirements and building the various UML diagrams. Gathering various functional and non-functional requirements seemed to be the most naturally intuitive aspect of system analysis and design for me. Besides that the UML Diagrams were easier for me. Designing and building the diagrams were my favorite parts of the whole process with the exception of sequence diagrams.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-
+I would go back and change my sequence diagram for the resgistration process of an account in DriverPass. I'm not 100% confident I structured this diagram correctly or used the right symbols and such. I also wish I could remove some of the actions during this process. I think I would the email verification process as I believe it could be it's on sequence diagram.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-
+I interpreted the user needs by trying to look at the potential users purpose for using the application and what types of users would use the application. Users want to use DriverPass because they want to improve both driving knowledge and skills in order to pass their driving test and exam. For me most of these users would be high school kids from various life styles. These life styles are typically governed by their parents. So a kid that doesn't have access to a computer at home would only be able to call in appointments but also can't access the online courses. In some cases there is no remedy for this situation but if they have a smart phone then they could at least use the mobile application if they wanted to access the classes. It's important to think about user needs because it helps build a smooth user experience with features that are helpful. It also helps you think about how to help more people access your application which is important helping add in a lot of potentials users/customers.
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-
+I think using a combination of object-oriented and process-oriented design is the best approasch to software design. Building various diagram will help visualize the various models and processes. It also helps to be able to describe all these objects, processes, diagrams, etc. in both technical and non-technical ways. Part of System Design and Analysis is being able to communicate these designs to various audiences and so having great communication skills is very beneficial.
